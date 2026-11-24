@@ -1,0 +1,22 @@
+# Generated Bible databases, extracted texts, and reports (never commit copyrighted texts)
+*.pdb
+*.PDB
+*.prc
+*.epub
+*.json
+*.zip
+*report*.txt
+
+# Reference downloads & local caches
+ref/
+.cache/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS files
+.DS_Store
